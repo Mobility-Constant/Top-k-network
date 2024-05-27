@@ -8,8 +8,7 @@ The codes contains:
 
 *   **scripts/plot_flow_network.ipynb** Code used to visualize the original flow and the network of the 130 most frequent destinations, utilized to reproduce Fig. 1A-H.
 
-*   **scripts/plot_PPD_Socioeconomic_relationship.ipynb** Codes used to:
-
-- Plot the spatial distribution of Principal Proportional Destinations (PPD) and reproduce Fig. 3.
-
-- Conduct correlation analysis of socioeconomic factors with the Proportion of Principal Destinations (PPD) and reproduce Fig. 4.
+*   **scripts/plot_PPD_Socioeconomic_relationship.ipynb**
+    - Code used to:
+        - Plot the spatial distribution of Principal Proportional Destinations (PPD) and reproduce Figure 3.
+        - Conduct correlation analysis of socioeconomic factors with the Proportion of Principal Destinations (PPD) and reproduce Figure 4.
